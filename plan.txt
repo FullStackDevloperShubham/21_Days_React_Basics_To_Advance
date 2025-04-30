@@ -1,0 +1,49 @@
+🔥 Suggested React 21-Day Challenge Roadmap:
+
+🧠 Week 1: Core React (Basics)
+
+Day 1: JSX, rendering, functional components
+
+Day 2: Props, props drilling
+
+Day 3: State with useState
+
+Day 4: Conditional rendering & lists
+
+Day 5: Event handling & forms
+
+Day 6: useEffect (lifecycle in React)
+
+Day 7: Create a small project (To-do app)
+
+🧩 Week 2: Intermediate Concepts
+
+Day 8: Lifting state up, component communication
+
+Day 9: useRef and DOM manipulation
+
+Day 10: useReducer for complex state
+
+Day 11: Custom hooks
+
+Day 12: Context API for global state
+
+Day 13: Routing with React Router DOM
+
+Day 14: Mini Project (Blog, Notes App)
+
+🚀 Week 3: Advanced React
+
+Day 15: Code splitting, lazy loading
+
+Day 16: Error boundaries + fallback UI
+
+Day 17: Forms with libraries (Formik / React Hook Form)
+
+Day 18: Testing React apps (Jest + RTL)
+
+Day 19: Performance optimization (memo, useMemo, useCallback)
+
+Day 20: Deploy on Vercel/Netlify + SEO
+
+Day 21: Final Project (Dashboard, Auth, API fetch)
